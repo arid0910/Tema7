@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-package ExpresionRegular1;
+package Ficheros;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
  *
  * @author adam
  */
-public class expreRegulares {
+public class ficheros {
 
     public static void main(String[] args) {
         //Todos los archivos que estan en la raiz del pryecto
