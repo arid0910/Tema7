@@ -4,6 +4,8 @@
  */
 package Tarea7C;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -12,8 +14,10 @@ import java.nio.file.StandardOpenOption;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 //Date time formater .ofPattern
@@ -36,6 +40,12 @@ public class Main {
         Set<String> generos;
         generos = generos(listaStr);
         generos.forEach(System.out::println);
+        
+        Map<String, Integer> listaM;
+        listaM = generosContar(listaStr);
+        for (Map.Entry<String, Integer> entry : listaM.entrySet()) {
+            System.out.println(entry.getKey() + "," + entry.getValue() + "\n");
+        }
     }
 
     public static List<String> leer(String fichero) {
@@ -83,5 +93,24 @@ public class Main {
         }
        
         return generos;
+    }
+    
+    public static Map<String, Integer> generosContar(List<String> lista){
+        Map<String, Integer> listaM = new HashMap<>();
+        
+        for (String linea : lista) {
+            String[] array = linea.split(",");
+            listaM.put(array[4], listaM.getOrDefault(array[4], 0) + 1);
+        }
+        
+         try (BufferedWriter writer = new BufferedWriter(new FileWriter("generosContar.txt"))) {
+            for (Map.Entry<String, Integer> entry : listaM.entrySet()) {
+                writer.write(entry.getKey() + "," + entry.getValue() + "\n");
+            }
+        } catch (IOException ex) {
+            System.out.println("Error");
+        }
+        
+         return listaM;
     }
 }
