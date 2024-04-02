@@ -103,7 +103,7 @@ public class Main {
             listaM.put(array[4], listaM.getOrDefault(array[4], 0) + 1);
         }
         
-         try (BufferedWriter writer = new BufferedWriter(new FileWriter("generosContar.txt"))) {
+         try (BufferedWriter writer = new BufferedWriter(new FileWriter("generosContar.csv"))) {
             for (Map.Entry<String, Integer> entry : listaM.entrySet()) {
                 writer.write(entry.getKey() + "," + entry.getValue() + "\n");
             }
