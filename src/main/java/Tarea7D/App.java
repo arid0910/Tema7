@@ -4,23 +4,37 @@
  */
 package Tarea7D;
 
+import java.util.List;
 import java.util.Objects;
 import java.util.Random;
 import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlElementWrapper;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
  * @author adam
  */
+@XmlRootElement
+@XmlAccessorType(XmlAccessType.FIELD)
 public class App {
-
+    
+    @XmlElementWrapper(name = "Apps")
+    @XmlElement(name = "aplicacion")
+    private List<App> listaA;
+    
     private int codigo;
     private String nombre;
     private String descripcion;
     private double tamañoKb;
     private int numDesc;
     private static int contador = 0;
+    @XmlTransient
     private String[] descripciones = {"Mensajería instantánea con amigos. " ,
                           "Redes sociales para compartir momentos. " ,
                           "Navegación y tráfico en tiempo real. " ,
@@ -100,6 +114,16 @@ public class App {
         this.numDesc = numDesc;
     }
 
+    public List<App> getListaA() {
+        return listaA;
+    }
+
+    public void setListaA(List<App> listaA) {
+        this.listaA = listaA;
+    }
+    
+    
+    
     @Override
     public String toString() {
         return  codigo + ";" + nombre + 
