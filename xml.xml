@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogoApps>
+    <catalogo>
+        <App>
+            <codigo>0</codigo>
+            <nombre>app0s</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>1008.5237467924641</tamañoKb>
+            <numDesc>951</numDesc>
+        </App>
+        <App>
+            <codigo>1</codigo>
+            <nombre>app1s</nombre>
+            <descripcion>Streaming de películas y series. </descripcion>
+            <tamañoKb>860.1087302090451</tamañoKb>
+            <numDesc>3504</numDesc>
+        </App>
+        <App>
+            <codigo>2</codigo>
+            <nombre>app2j</nombre>
+            <descripcion>Reservas de viajes y alojamiento. </descripcion>
+            <tamañoKb>697.821632938182</tamañoKb>
+            <numDesc>4399</numDesc>
+        </App>
+        <App>
+            <codigo>3</codigo>
+            <nombre>app3r</nombre>
+            <descripcion>Plataforma de aprendizaje en línea. </descripcion>
+            <tamañoKb>422.20672543276004</tamañoKb>
+            <numDesc>4941</numDesc>
+        </App>
+        <App>
+            <codigo>4</codigo>
+            <nombre>app4y</nombre>
+            <descripcion>Juego de rompecabezas adictivo. </descripcion>
+            <tamañoKb>748.9178593394989</tamañoKb>
+            <numDesc>4560</numDesc>
+        </App>
+        <App>
+            <codigo>5</codigo>
+            <nombre>app5w</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>146.00092457359904</tamañoKb>
+            <numDesc>123</numDesc>
+        </App>
+        <App>
+            <codigo>6</codigo>
+            <nombre>app6o</nombre>
+            <descripcion>Seguimiento de salud y bienestar. </descripcion>
+            <tamañoKb>425.55727054988444</tamañoKb>
+            <numDesc>3905</numDesc>
+        </App>
+        <App>
+            <codigo>7</codigo>
+            <nombre>app7r</nombre>
+            <descripcion>Streaming de películas y series. </descripcion>
+            <tamañoKb>836.4367652087957</tamañoKb>
+            <numDesc>4616</numDesc>
+        </App>
+        <App>
+            <codigo>8</codigo>
+            <nombre>app8t</nombre>
+            <descripcion>Mensajería instantánea con amigos. </descripcion>
+            <tamañoKb>280.17934483008025</tamañoKb>
+            <numDesc>4065</numDesc>
+        </App>
+        <App>
+            <codigo>9</codigo>
+            <nombre>app9x</nombre>
+            <descripcion>Streaming de películas y series. </descripcion>
+            <tamañoKb>679.3612251435013</tamañoKb>
+            <numDesc>1516</numDesc>
+        </App>
+        <App>
+            <codigo>10</codigo>
+            <nombre>app10h</nombre>
+            <descripcion>Plataforma de aprendizaje en línea. </descripcion>
+            <tamañoKb>505.975498075669</tamañoKb>
+            <numDesc>971</numDesc>
+        </App>
+        <App>
+            <codigo>11</codigo>
+            <nombre>app11c</nombre>
+            <descripcion>Streaming de películas y series. </descripcion>
+            <tamañoKb>240.72597599761943</tamañoKb>
+            <numDesc>4413</numDesc>
+        </App>
+        <App>
+            <codigo>12</codigo>
+            <nombre>app12w</nombre>
+            <descripcion>Juego de rompecabezas adictivo. </descripcion>
+            <tamañoKb>1012.8320996597066</tamañoKb>
+            <numDesc>1475</numDesc>
+        </App>
+        <App>
+            <codigo>13</codigo>
+            <nombre>app13y</nombre>
+            <descripcion>Reservas de viajes y alojamiento. </descripcion>
+            <tamañoKb>454.0069242019173</tamañoKb>
+            <numDesc>4503</numDesc>
+        </App>
+        <App>
+            <codigo>14</codigo>
+            <nombre>app14q</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>647.8093308960509</tamañoKb>
+            <numDesc>1884</numDesc>
+        </App>
+        <App>
+            <codigo>15</codigo>
+            <nombre>app15r</nombre>
+            <descripcion>Entrega de comida a domicilio.</descripcion>
+            <tamañoKb>435.8659909499954</tamañoKb>
+            <numDesc>4231</numDesc>
+        </App>
+        <App>
+            <codigo>16</codigo>
+            <nombre>app16x</nombre>
+            <descripcion>Juego de rompecabezas adictivo. </descripcion>
+            <tamañoKb>215.7433605451635</tamañoKb>
+            <numDesc>3716</numDesc>
+        </App>
+        <App>
+            <codigo>17</codigo>
+            <nombre>app17m</nombre>
+            <descripcion>Mensajería instantánea con amigos. </descripcion>
+            <tamañoKb>980.8412968678118</tamañoKb>
+            <numDesc>4232</numDesc>
+        </App>
+        <App>
+            <codigo>18</codigo>
+            <nombre>app18v</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>453.28014307310104</tamañoKb>
+            <numDesc>2782</numDesc>
+        </App>
+        <App>
+            <codigo>19</codigo>
+            <nombre>app19d</nombre>
+            <descripcion>Reservas de viajes y alojamiento. </descripcion>
+            <tamañoKb>217.6036270635958</tamañoKb>
+            <numDesc>4125</numDesc>
+        </App>
+        <App>
+            <codigo>20</codigo>
+            <nombre>app20p</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>557.3205507185535</tamañoKb>
+            <numDesc>2408</numDesc>
+        </App>
+        <App>
+            <codigo>21</codigo>
+            <nombre>app21u</nombre>
+            <descripcion>Entrega de comida a domicilio.</descripcion>
+            <tamañoKb>105.95635548005319</tamañoKb>
+            <numDesc>1268</numDesc>
+        </App>
+        <App>
+            <codigo>22</codigo>
+            <nombre>app22l</nombre>
+            <descripcion>Organizador de tareas diarias. </descripcion>
+            <tamañoKb>530.1432812130272</tamañoKb>
+            <numDesc>4645</numDesc>
+        </App>
+        <App>
+            <codigo>23</codigo>
+            <nombre>app23s</nombre>
+            <descripcion>Navegación y tráfico en tiempo real. </descripcion>
+            <tamañoKb>515.1912432551524</tamañoKb>
+            <numDesc>2642</numDesc>
+        </App>
+        <App>
+            <codigo>24</codigo>
+            <nombre>app24h</nombre>
+            <descripcion>Navegación y tráfico en tiempo real. </descripcion>
+            <tamañoKb>236.99152405127947</tamañoKb>
+            <numDesc>1305</numDesc>
+        </App>
+        <App>
+            <codigo>25</codigo>
+            <nombre>app25e</nombre>
+            <descripcion>Entrega de comida a domicilio.</descripcion>
+            <tamañoKb>981.4611833928491</tamañoKb>
+            <numDesc>3777</numDesc>
+        </App>
+        <App>
+            <codigo>26</codigo>
+            <nombre>app26u</nombre>
+            <descripcion>Navegación y tráfico en tiempo real. </descripcion>
+            <tamañoKb>573.8391210518951</tamañoKb>
+            <numDesc>1076</numDesc>
+        </App>
+        <App>
+            <codigo>27</codigo>
+            <nombre>app27d</nombre>
+            <descripcion>Reservas de viajes y alojamiento. </descripcion>
+            <tamañoKb>945.6692444692808</tamañoKb>
+            <numDesc>949</numDesc>
+        </App>
+        <App>
+            <codigo>28</codigo>
+            <nombre>app28b</nombre>
+            <descripcion>Juego de rompecabezas adictivo. </descripcion>
+            <tamañoKb>523.0267975130619</tamañoKb>
+            <numDesc>34</numDesc>
+        </App>
+        <App>
+            <codigo>29</codigo>
+            <nombre>app29j</nombre>
+            <descripcion>Navegación y tráfico en tiempo real. </descripcion>
+            <tamañoKb>730.1318207464598</tamañoKb>
+            <numDesc>571</numDesc>
+        </App>
+        <App>
+            <codigo>30</codigo>
+            <nombre>app30q</nombre>
+            <descripcion>Seguimiento de salud y bienestar. </descripcion>
+            <tamañoKb>455.9334103069219</tamañoKb>
+            <numDesc>1950</numDesc>
+        </App>
+        <App>
+            <codigo>31</codigo>
+            <nombre>app31p</nombre>
+            <descripcion>Streaming de películas y series. </descripcion>
+            <tamañoKb>377.73077875687665</tamañoKb>
+            <numDesc>2371</numDesc>
+        </App>
+        <App>
+            <codigo>32</codigo>
+            <nombre>app32e</nombre>
+            <descripcion>Mensajería instantánea con amigos. </descripcion>
+            <tamañoKb>802.4996180128215</tamañoKb>
+            <numDesc>1501</numDesc>
+        </App>
+        <App>
+            <codigo>33</codigo>
+            <nombre>app33j</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>687.0089538966027</tamañoKb>
+            <numDesc>4481</numDesc>
+        </App>
+        <App>
+            <codigo>34</codigo>
+            <nombre>app34q</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>971.8229604071792</tamañoKb>
+            <numDesc>3105</numDesc>
+        </App>
+        <App>
+            <codigo>35</codigo>
+            <nombre>app35s</nombre>
+            <descripcion>Seguimiento de salud y bienestar. </descripcion>
+            <tamañoKb>246.73351221198578</tamañoKb>
+            <numDesc>4515</numDesc>
+        </App>
+        <App>
+            <codigo>36</codigo>
+            <nombre>app36v</nombre>
+            <descripcion>Seguimiento de salud y bienestar. </descripcion>
+            <tamañoKb>678.3235098165416</tamañoKb>
+            <numDesc>3573</numDesc>
+        </App>
+        <App>
+            <codigo>37</codigo>
+            <nombre>app37k</nombre>
+            <descripcion>Organizador de tareas diarias. </descripcion>
+            <tamañoKb>499.7111075556221</tamañoKb>
+            <numDesc>697</numDesc>
+        </App>
+        <App>
+            <codigo>38</codigo>
+            <nombre>app38o</nombre>
+            <descripcion>Entrega de comida a domicilio.</descripcion>
+            <tamañoKb>809.4474771250997</tamañoKb>
+            <numDesc>3187</numDesc>
+        </App>
+        <App>
+            <codigo>39</codigo>
+            <nombre>app39u</nombre>
+            <descripcion>Plataforma de aprendizaje en línea. </descripcion>
+            <tamañoKb>380.08645260004835</tamañoKb>
+            <numDesc>1747</numDesc>
+        </App>
+        <App>
+            <codigo>40</codigo>
+            <nombre>app40t</nombre>
+            <descripcion>Plataforma de aprendizaje en línea. </descripcion>
+            <tamañoKb>991.359999364322</tamañoKb>
+            <numDesc>375</numDesc>
+        </App>
+        <App>
+            <codigo>41</codigo>
+            <nombre>app41y</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>963.2114877065321</tamañoKb>
+            <numDesc>2897</numDesc>
+        </App>
+        <App>
+            <codigo>42</codigo>
+            <nombre>app42f</nombre>
+            <descripcion>Redes sociales para compartir momentos. </descripcion>
+            <tamañoKb>821.4565226503712</tamañoKb>
+            <numDesc>845</numDesc>
+        </App>
+        <App>
+            <codigo>43</codigo>
+            <nombre>app43r</nombre>
+            <descripcion>Streaming de películas y series. </descripcion>
+            <tamañoKb>403.2607893825184</tamañoKb>
+            <numDesc>1717</numDesc>
+        </App>
+        <App>
+            <codigo>44</codigo>
+            <nombre>app44v</nombre>
+            <descripcion>Seguimiento de salud y bienestar. </descripcion>
+            <tamañoKb>847.1638417298761</tamañoKb>
+            <numDesc>1612</numDesc>
+        </App>
+        <App>
+            <codigo>45</codigo>
+            <nombre>app45h</nombre>
+            <descripcion>Entrega de comida a domicilio.</descripcion>
+            <tamañoKb>594.3334038487675</tamañoKb>
+            <numDesc>1488</numDesc>
+        </App>
+        <App>
+            <codigo>46</codigo>
+            <nombre>app46w</nombre>
+            <descripcion>Navegación y tráfico en tiempo real. </descripcion>
+            <tamañoKb>260.4595660028923</tamañoKb>
+            <numDesc>3902</numDesc>
+        </App>
+        <App>
+            <codigo>47</codigo>
+            <nombre>app47y</nombre>
+            <descripcion>Entrega de comida a domicilio.</descripcion>
+            <tamañoKb>903.1035079356146</tamañoKb>
+            <numDesc>3603</numDesc>
+        </App>
+        <App>
+            <codigo>48</codigo>
+            <nombre>app48p</nombre>
+            <descripcion>Seguimiento de salud y bienestar. </descripcion>
+            <tamañoKb>576.5154586504486</tamañoKb>
+            <numDesc>4653</numDesc>
+        </App>
+        <App>
+            <codigo>49</codigo>
+            <nombre>app49x</nombre>
+            <descripcion>Navegación y tráfico en tiempo real. </descripcion>
+            <tamañoKb>831.1480730345817</tamañoKb>
+            <numDesc>1883</numDesc>
+        </App>
+    </catalogo>
+    <descripcion>Mi catalogo</descripcion>
+</catalogoApps>

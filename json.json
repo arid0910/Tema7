@@ -1,0 +1,301 @@
+[ {
+  "codigo" : 0,
+  "nombre" : "app0s",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 1008.5237467924641,
+  "numDesc" : 951
+}, {
+  "codigo" : 1,
+  "nombre" : "app1s",
+  "descripcion" : "Streaming de películas y series. ",
+  "tamañoKb" : 860.1087302090451,
+  "numDesc" : 3504
+}, {
+  "codigo" : 2,
+  "nombre" : "app2j",
+  "descripcion" : "Reservas de viajes y alojamiento. ",
+  "tamañoKb" : 697.821632938182,
+  "numDesc" : 4399
+}, {
+  "codigo" : 3,
+  "nombre" : "app3r",
+  "descripcion" : "Plataforma de aprendizaje en línea. ",
+  "tamañoKb" : 422.20672543276004,
+  "numDesc" : 4941
+}, {
+  "codigo" : 4,
+  "nombre" : "app4y",
+  "descripcion" : "Juego de rompecabezas adictivo. ",
+  "tamañoKb" : 748.9178593394989,
+  "numDesc" : 4560
+}, {
+  "codigo" : 5,
+  "nombre" : "app5w",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 146.00092457359904,
+  "numDesc" : 123
+}, {
+  "codigo" : 6,
+  "nombre" : "app6o",
+  "descripcion" : "Seguimiento de salud y bienestar. ",
+  "tamañoKb" : 425.55727054988444,
+  "numDesc" : 3905
+}, {
+  "codigo" : 7,
+  "nombre" : "app7r",
+  "descripcion" : "Streaming de películas y series. ",
+  "tamañoKb" : 836.4367652087957,
+  "numDesc" : 4616
+}, {
+  "codigo" : 8,
+  "nombre" : "app8t",
+  "descripcion" : "Mensajería instantánea con amigos. ",
+  "tamañoKb" : 280.17934483008025,
+  "numDesc" : 4065
+}, {
+  "codigo" : 9,
+  "nombre" : "app9x",
+  "descripcion" : "Streaming de películas y series. ",
+  "tamañoKb" : 679.3612251435013,
+  "numDesc" : 1516
+}, {
+  "codigo" : 10,
+  "nombre" : "app10h",
+  "descripcion" : "Plataforma de aprendizaje en línea. ",
+  "tamañoKb" : 505.975498075669,
+  "numDesc" : 971
+}, {
+  "codigo" : 11,
+  "nombre" : "app11c",
+  "descripcion" : "Streaming de películas y series. ",
+  "tamañoKb" : 240.72597599761943,
+  "numDesc" : 4413
+}, {
+  "codigo" : 12,
+  "nombre" : "app12w",
+  "descripcion" : "Juego de rompecabezas adictivo. ",
+  "tamañoKb" : 1012.8320996597066,
+  "numDesc" : 1475
+}, {
+  "codigo" : 13,
+  "nombre" : "app13y",
+  "descripcion" : "Reservas de viajes y alojamiento. ",
+  "tamañoKb" : 454.0069242019173,
+  "numDesc" : 4503
+}, {
+  "codigo" : 14,
+  "nombre" : "app14q",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 647.8093308960509,
+  "numDesc" : 1884
+}, {
+  "codigo" : 15,
+  "nombre" : "app15r",
+  "descripcion" : "Entrega de comida a domicilio.",
+  "tamañoKb" : 435.8659909499954,
+  "numDesc" : 4231
+}, {
+  "codigo" : 16,
+  "nombre" : "app16x",
+  "descripcion" : "Juego de rompecabezas adictivo. ",
+  "tamañoKb" : 215.7433605451635,
+  "numDesc" : 3716
+}, {
+  "codigo" : 17,
+  "nombre" : "app17m",
+  "descripcion" : "Mensajería instantánea con amigos. ",
+  "tamañoKb" : 980.8412968678118,
+  "numDesc" : 4232
+}, {
+  "codigo" : 18,
+  "nombre" : "app18v",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 453.28014307310104,
+  "numDesc" : 2782
+}, {
+  "codigo" : 19,
+  "nombre" : "app19d",
+  "descripcion" : "Reservas de viajes y alojamiento. ",
+  "tamañoKb" : 217.6036270635958,
+  "numDesc" : 4125
+}, {
+  "codigo" : 20,
+  "nombre" : "app20p",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 557.3205507185535,
+  "numDesc" : 2408
+}, {
+  "codigo" : 21,
+  "nombre" : "app21u",
+  "descripcion" : "Entrega de comida a domicilio.",
+  "tamañoKb" : 105.95635548005319,
+  "numDesc" : 1268
+}, {
+  "codigo" : 22,
+  "nombre" : "app22l",
+  "descripcion" : "Organizador de tareas diarias. ",
+  "tamañoKb" : 530.1432812130272,
+  "numDesc" : 4645
+}, {
+  "codigo" : 23,
+  "nombre" : "app23s",
+  "descripcion" : "Navegación y tráfico en tiempo real. ",
+  "tamañoKb" : 515.1912432551524,
+  "numDesc" : 2642
+}, {
+  "codigo" : 24,
+  "nombre" : "app24h",
+  "descripcion" : "Navegación y tráfico en tiempo real. ",
+  "tamañoKb" : 236.99152405127947,
+  "numDesc" : 1305
+}, {
+  "codigo" : 25,
+  "nombre" : "app25e",
+  "descripcion" : "Entrega de comida a domicilio.",
+  "tamañoKb" : 981.4611833928491,
+  "numDesc" : 3777
+}, {
+  "codigo" : 26,
+  "nombre" : "app26u",
+  "descripcion" : "Navegación y tráfico en tiempo real. ",
+  "tamañoKb" : 573.8391210518951,
+  "numDesc" : 1076
+}, {
+  "codigo" : 27,
+  "nombre" : "app27d",
+  "descripcion" : "Reservas de viajes y alojamiento. ",
+  "tamañoKb" : 945.6692444692808,
+  "numDesc" : 949
+}, {
+  "codigo" : 28,
+  "nombre" : "app28b",
+  "descripcion" : "Juego de rompecabezas adictivo. ",
+  "tamañoKb" : 523.0267975130619,
+  "numDesc" : 34
+}, {
+  "codigo" : 29,
+  "nombre" : "app29j",
+  "descripcion" : "Navegación y tráfico en tiempo real. ",
+  "tamañoKb" : 730.1318207464598,
+  "numDesc" : 571
+}, {
+  "codigo" : 30,
+  "nombre" : "app30q",
+  "descripcion" : "Seguimiento de salud y bienestar. ",
+  "tamañoKb" : 455.9334103069219,
+  "numDesc" : 1950
+}, {
+  "codigo" : 31,
+  "nombre" : "app31p",
+  "descripcion" : "Streaming de películas y series. ",
+  "tamañoKb" : 377.73077875687665,
+  "numDesc" : 2371
+}, {
+  "codigo" : 32,
+  "nombre" : "app32e",
+  "descripcion" : "Mensajería instantánea con amigos. ",
+  "tamañoKb" : 802.4996180128215,
+  "numDesc" : 1501
+}, {
+  "codigo" : 33,
+  "nombre" : "app33j",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 687.0089538966027,
+  "numDesc" : 4481
+}, {
+  "codigo" : 34,
+  "nombre" : "app34q",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 971.8229604071792,
+  "numDesc" : 3105
+}, {
+  "codigo" : 35,
+  "nombre" : "app35s",
+  "descripcion" : "Seguimiento de salud y bienestar. ",
+  "tamañoKb" : 246.73351221198578,
+  "numDesc" : 4515
+}, {
+  "codigo" : 36,
+  "nombre" : "app36v",
+  "descripcion" : "Seguimiento de salud y bienestar. ",
+  "tamañoKb" : 678.3235098165416,
+  "numDesc" : 3573
+}, {
+  "codigo" : 37,
+  "nombre" : "app37k",
+  "descripcion" : "Organizador de tareas diarias. ",
+  "tamañoKb" : 499.7111075556221,
+  "numDesc" : 697
+}, {
+  "codigo" : 38,
+  "nombre" : "app38o",
+  "descripcion" : "Entrega de comida a domicilio.",
+  "tamañoKb" : 809.4474771250997,
+  "numDesc" : 3187
+}, {
+  "codigo" : 39,
+  "nombre" : "app39u",
+  "descripcion" : "Plataforma de aprendizaje en línea. ",
+  "tamañoKb" : 380.08645260004835,
+  "numDesc" : 1747
+}, {
+  "codigo" : 40,
+  "nombre" : "app40t",
+  "descripcion" : "Plataforma de aprendizaje en línea. ",
+  "tamañoKb" : 991.359999364322,
+  "numDesc" : 375
+}, {
+  "codigo" : 41,
+  "nombre" : "app41y",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 963.2114877065321,
+  "numDesc" : 2897
+}, {
+  "codigo" : 42,
+  "nombre" : "app42f",
+  "descripcion" : "Redes sociales para compartir momentos. ",
+  "tamañoKb" : 821.4565226503712,
+  "numDesc" : 845
+}, {
+  "codigo" : 43,
+  "nombre" : "app43r",
+  "descripcion" : "Streaming de películas y series. ",
+  "tamañoKb" : 403.2607893825184,
+  "numDesc" : 1717
+}, {
+  "codigo" : 44,
+  "nombre" : "app44v",
+  "descripcion" : "Seguimiento de salud y bienestar. ",
+  "tamañoKb" : 847.1638417298761,
+  "numDesc" : 1612
+}, {
+  "codigo" : 45,
+  "nombre" : "app45h",
+  "descripcion" : "Entrega de comida a domicilio.",
+  "tamañoKb" : 594.3334038487675,
+  "numDesc" : 1488
+}, {
+  "codigo" : 46,
+  "nombre" : "app46w",
+  "descripcion" : "Navegación y tráfico en tiempo real. ",
+  "tamañoKb" : 260.4595660028923,
+  "numDesc" : 3902
+}, {
+  "codigo" : 47,
+  "nombre" : "app47y",
+  "descripcion" : "Entrega de comida a domicilio.",
+  "tamañoKb" : 903.1035079356146,
+  "numDesc" : 3603
+}, {
+  "codigo" : 48,
+  "nombre" : "app48p",
+  "descripcion" : "Seguimiento de salud y bienestar. ",
+  "tamañoKb" : 576.5154586504486,
+  "numDesc" : 4653
+}, {
+  "codigo" : 49,
+  "nombre" : "app49x",
+  "descripcion" : "Navegación y tráfico en tiempo real. ",
+  "tamañoKb" : 831.1480730345817,
+  "numDesc" : 1883
+} ]

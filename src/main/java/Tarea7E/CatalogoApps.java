@@ -31,7 +31,7 @@ public class CatalogoApps {
 
     private String descripcion;
 
-    public List<App> getListaMuebles() {
+    public List<App> getListaApps() {
         return listaApp;
     }
 
